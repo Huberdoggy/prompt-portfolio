@@ -34,9 +34,7 @@ This portfolio showcases applied prompt design systems I've developed using Chat
 
 ## View the Full Portfolio  
 **[Download Full PDF (Multi-Page)](./Kyle_Prompt_Portfolio_Complete.pdf)**  
-*(Also viewable in my [LinkedIn Featured section](https://linkedin.com/in/kyle-james-my-filenames))*
 
 ---
 
-*Currently building Greenlight, a platform for behavior-based hiring.*  
-*Let's connect if you're exploring LLM workflows or prompt system design.*
+*Let's connect if you're exploring LLM workflows or prompt system design -> [LinkedIn](https://linkedin.com/in/kyle-james-my-filenames)*
