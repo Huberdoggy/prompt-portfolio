@@ -14,7 +14,19 @@ This portfolio showcases applied prompt design systems I've developed using GPT-
 **Purpose:** Streamlines high-consistency, voice-aligned resume generation; augmenting the user's most frequently disclosed skills and attestations.
 
 **Why It Matters:** Enables reusable job application artifacts; maintaining authenticity and simplifying future updates.
-[Download Deck]()
+[Download Deck](./evergreen_cv_prompt.pdf)
+
+### 2. Local Agentic Workflow Setup  
+**Purpose:** Repurpose an existing PC; leveraging its hardware capabilities for enhancing current and future AI-powered product builds. 
+
+**Why It Matters:** Large undertakings such as this should always be approached with foresight and determinism.
+[Download Deck](./dual_boot_roadmap_prompt.pdf)
+
+### 3. The Harvard Extension Plan  
+**Purpose:** Scope out an undergraduate major, drawing inspiration from a public figure role model.
+
+**Why It Matters:** Oftentimes, collegiate resources are dispersed amongst various online portals, and don't account for extraneous research needing to be performed in advance to ascertain students are equipped with a solid action plan for success. 
+[Download Deck](./harvard_extension_prompt.pdf)
 
 ---
 
