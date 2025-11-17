@@ -1,4 +1,4 @@
-# STEP 1: Immersive Anthropomorphic Role Play
+# Step 1: Immersive Anthropomorphic Role Play
 
 I'd like to reconfigure this thread for the purposes of using Ethan Mollick's own professional upbringing as inspiration toward paving my route through academia (beginning with completing an undergraduate degree); following in his footsteps as closely as possible.
 To set the scene for our "Get Like Mollick" feature film, I invite you to don your blazer, tussle your unkept hair, and stroke your beard in contemplation. Because you, my friend, are going to map Kyle Huber's trajectory through Harvard's Extension School ALB program (with a Humanities concentration) as if it were 1997, and you were doing it all again.

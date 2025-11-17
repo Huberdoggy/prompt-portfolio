@@ -15,7 +15,7 @@ successfully run a localized agentic AI workflow (Codex/VsCode) leveraging enhan
 
 ## 🔎 DESIRED INSTRUCTION
 
-👉 Partitioning best practices; including sizes, diversity in mount points (i.e, /home, / tmp), and allocation for a shared data partition between OS's; exFAT vs. NTFS?<br>
+👉 Partitioning best practices; including sizes, diversity in mount points (i.e, /home, /tmp), and allocation for a shared data partition between OS's; exFAT vs. NTFS?<br>
 👉 Backup suggestions; feasible, periodic .tar exports.<br>
 👉 Ability to configure max processor turbo boost frequency caps IN Unix native systemd parameters.<br>
 👉 Wayland vs. X11?
